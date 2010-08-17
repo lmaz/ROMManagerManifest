@@ -595,6 +595,17 @@
         {
             inc: true
         }
+    },
+    {
+        developer: "lyka",
+        id: "lmaz",
+        summary: "A Senseless and deodexed ROM with clean look and feel",
+        manifest: "http://www.lucamazzilli.it/ROMS/lmaz.js",
+        free: true,
+        roms:
+        {
+            legend: true
+        }
     }
     ]
 }
